@@ -18,6 +18,7 @@ Mini Apps platform using the following technologies and libraries:
 If you have just cloned this template, you should install the project dependencies using the
 command:
 
+
 ```Bash
 npm install
 ```
